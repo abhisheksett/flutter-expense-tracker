@@ -1,16 +1,47 @@
-# flutter_expense_tracker
+# Flutter Expense Tracker
 
-A new Flutter project.
+This is a flutter project to track expenses. Following features are available in the app:
 
-## Getting Started
+- Shows list of expenses
+- Shows graphical view of expense categories
+- Allows to add new expense
+    - Title of expense
+    - Expense amount in number
+    - Expense date (needs to be selected from datepicker)
+    - Expense category (to be selected from list of categories)
+- Has validation if invalid input is entered
+- Allows to delete expense by swiping any record
+- Allows to undo any delete
 
-This project is a starting point for a Flutter application.
+# Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+### Expense list and graph
+<p align="center">
+<img src="./assets/screenshots/1.png" alt="home screen" height="400">
+</p>
+<br/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Add expense
+<p align="center">
+<img src="./assets/screenshots/2.png" alt="add expense screen" height="400">
+<br/></p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Datepicker
+<p align="center">
+<img src="./assets/screenshots/3.png" alt="add expense with datepicker" height="400">
+<br/></p>
+
+### Validation for invalid input
+<p align="center">
+<img src="./assets/screenshots/4.png" alt="invalid input alert" height="400">
+<br/></p>
+
+### Delete an expense
+<p align="center">
+<img src="./assets/screenshots/5.png" alt="delete expense screen" height="400">
+<br/></p>
+
+### Undo delete
+<p align="center">
+<img src="./assets/screenshots/6.png" alt="undo delete" height="400">
+</p>
