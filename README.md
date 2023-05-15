@@ -12,6 +12,8 @@ This is a flutter project to track expenses. Following features are available in
 - Has validation if invalid input is entered
 - Allows to delete expense by swiping any record
 - Allows to undo any delete
+- Support for theme change and dark mode
+- Support for landscape view
 
 # Screenshots
 
@@ -36,6 +38,11 @@ This is a flutter project to track expenses. Following features are available in
 <img src="./assets/screenshots/4.png" alt="invalid input alert" height="400">
 <br/></p>
 
+### Validation for invalid input in iOS device
+<p align="center">
+<img src="./assets/screenshots/9.png" alt="invalid input alert ios" height="400">
+<br/></p>
+
 ### Delete an expense
 <p align="center">
 <img src="./assets/screenshots/5.png" alt="delete expense screen" height="400">
@@ -44,4 +51,14 @@ This is a flutter project to track expenses. Following features are available in
 ### Undo delete
 <p align="center">
 <img src="./assets/screenshots/6.png" alt="undo delete" height="400">
+</p>
+
+### Landscape view landing
+<p align="center">
+<img src="./assets/screenshots/7.png" alt="landscape landing" width="400">
+</p>
+
+### Landscape view for add expense
+<p align="center">
+<img src="./assets/screenshots/8.png" alt="landscape add expense" width="400">
 </p>
